@@ -161,7 +161,7 @@ Come menzionato in precedenza, il termine "algoritmo" deriva dal nome di al-Khwa
 
 ### L'era moderna
 
-Con l'avvento dei computer nel XX secolo, lo studio degli algoritmi e diventato una disciplina scientifica a se stante. Pionieri come Alan Turing, John von Neumann e Donald Knuth hanno posto le basi teoriche e pratiche dell'algoritmica moderna.
+Con l'avvento dei computer nel XX secolo, lo studio degli algoritmi è diventato una disciplina scientifica a se stante. Pionieri come Alan Turing, John von Neumann e Donald Knuth hanno posto le basi teoriche e pratiche dell'algoritmica moderna.
 
 Negli anni '60 e '70, furono sviluppati molti degli algoritmi fondamentali che utilizziamo ancora oggi: algoritmi di ordinamento efficienti come QuickSort e MergeSort, algoritmi di ricerca su grafi come Dijkstra e A*, e algoritmi per la risoluzione di problemi di ottimizzazione.
 
