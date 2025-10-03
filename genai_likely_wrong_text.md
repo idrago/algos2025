@@ -172,3 +172,9 @@ Oggi gli algoritmi sono ovunque: nei motori di ricerca che utilizziamo quotidian
 ## Conclusione
 
 Gli algoritmi sono il cuore pulsante dell'informatica moderna. Comprendere come funzionano, come analizzarne l'efficienza e come progettarne di nuovi e fondamentale per chiunque voglia lavorare nel campo dell'informatica. Nei prossimi capitoli, approfondiremo specifiche famiglie di algoritmi e le strutture dati che li supportano, costruendo una solida base per affrontare problemi computazionali di crescente complessità.
+
+Graze per l'aiuto con le correzione.
+
+Buon lavoro.
+
+Idillio Drago
