@@ -2,7 +2,7 @@
 
 ## Benvenuto al corso!
 
-Questo repositorio contiene materiale didattico per il corso di Algoritmi. Gli studente devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
+Questa repo contiene materiale didattico per il corso di Algoritmi. Gli studente devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
 
 ## Obbiettivi dell'esercitazione
 
