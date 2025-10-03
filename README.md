@@ -4,6 +4,8 @@
 
 Questa repo contiene materiale didattico per il corso di Algoritmi. Gli studente devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
 
+miao miao muahahah
+
 ## Obbiettivi dell'esercitazione
 
 1. Imparare ad utilizzare git per il controllo di versione
