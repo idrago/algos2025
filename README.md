@@ -20,7 +20,7 @@ Questo repositorio contiene materiale didattico per il corso di Algoritmi. Gli s
 Per cominciare, clona questo repository sul tuo computer locale:
 
 ```bash
-[git clone https://github.com/tuo-username/lab-algoritmi.git](https://github.com/idrago/algos2025.git)
+git clone https://github.com/tuo-username/lab-algoritmi.git
 cd lab-algoritmi
 ```
 
