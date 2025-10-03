@@ -6,10 +6,10 @@ Questa archivio contiene materiale didattico per il corso di Algoritmi. Gli stud
 
 ## Obbiettivi dell'esercitazione
 
-1. Imparare ad utilizzare git per il controllo di versione
-2. Praticare la collaborazione tramite branch e pull request
-3. Migliorare le capacita di revisione del codice
-4. Lavorare in team su un progetto condiviso
+2. aaa Imparare ad utilizzare git per il controllo di versione
+2. aa Praticare la collaborazione tramite branch e pull request
+3. aaa Migliorare le capacita di revisione del codice
+4. aaa Lavorare in team su un progetto condiviso
 
 
 Cambio qualcosa in questo punto del codice
