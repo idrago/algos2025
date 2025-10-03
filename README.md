@@ -11,6 +11,9 @@ Questa archivio contiene materiale didattico per il corso di Algoritmi. Gli stud
 3. Migliorare le capacita di revisione del codice
 4. Lavorare in team su un progetto condiviso
 
+
+Cambio qualcosa in questo punto del codice
+
 ## Istruzioni per gli studenti
 
 ### Fase 1: Primi passi con Git (lavoro su main)
