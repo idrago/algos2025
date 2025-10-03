@@ -127,3 +127,4 @@ Buon lavoro a tutti gli studenti!
 ---
 
 **Nota:** Questo e un esercitazione pratica. L'obbiettivo principale e imparare ad usare git in modo efficace, quindi non preoccupatevi se fate errori all'inizio. L'importante e imparare dal processo!
+
