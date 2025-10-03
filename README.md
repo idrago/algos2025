@@ -2,7 +2,7 @@
 
 ## Benvenuto al corso!
 
-Questa repo contiene materiale didattico per il corso di Algoritmi. Gli studente devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
+Questa archivio contiene materiale didattico per il corso di Algoritmi. Gli studenti devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
 
 miao miao muahahah
 
