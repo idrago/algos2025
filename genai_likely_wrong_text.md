@@ -40,7 +40,7 @@ La notazione Big O è uno strumento matematico utilizzato per descrivere il comp
 
 #### O(1) - Tempo costante
 
-Un algoritmo ha complessita O(1) quando il tempo di esecuzione non dipende dalla dimensione dell'input. Un esempio classico e l'accesso a un elemento di un array tramite indice:
+Un algoritmo ha complessita O(1) quando il tempo di esecuzione non dipende dalla dimensione dell'input. Un esempio classico è l'accesso a un elemento di un array tramite indice:
 
 ```python
 def accedi_elemento(array, indice):
