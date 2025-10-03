@@ -21,7 +21,6 @@ Questo repositori contiene materiale didattico per il corso di Algoritmi. Gli st
 3. aaa Migliorare le capacita di revisione del codice
 4. aaa Lavorare in team su un progetto condiviso
 
-
 Cambio qualcosa in questo punto del codice
 
 ## Istruzioni per gli studenti
