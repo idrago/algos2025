@@ -2,7 +2,17 @@
 
 ## Benvenuto al corso!
 
+<<<<<<< HEAD
 Questa archivio contiene materiale didattico per il corso di Algoritmi. Gli studenti devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
+=======
+<<<<<<< HEAD
+Questa repo contiene materiale didattico per il corso di Algoritmi. Gli studente devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
+
+miao miao muahahah
+=======
+Questo repositori contiene materiale didattico per il corso di Algoritmi. Gli studente devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
+>>>>>>> 15b625f (aggiunto accento riga 39)
+>>>>>>> 6ee039c (e -> è)
 
 ## Obbiettivi dell'esercitazione
 
