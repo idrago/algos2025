@@ -2,24 +2,22 @@
 
 ## Benvenuto al corso!
 
-<<<<<<< HEAD
+
 Questa archivio contiene materiale didattico per il corso di Algoritmi. Gli studenti devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
 =======
-<<<<<<< HEAD
+
 Questa repo contiene materiale didattico per il corso di Algoritmi. Gli studente devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
 
-miao miao muahahah
 =======
 Questo repositori contiene materiale didattico per il corso di Algoritmi. Gli studente devono leggere attentamente i file e correggere tutti gli errori grammaticali che trovano.
->>>>>>> 15b625f (aggiunto accento riga 39)
->>>>>>> 6ee039c (e -> è)
 
-## Obbiettivi dell'esercitazione
 
-2. aaa Imparare ad utilizzare git per il controllo di versione
-2. aa Praticare la collaborazione tramite branch e pull request
-3. aaa Migliorare le capacita di revisione del codice
-4. aaa Lavorare in team su un progetto condiviso
+## Obiettivi dell'esercitazione
+
+2. Imparare ad utilizzare git per il controllo di versione
+2. Praticare la collaborazione tramite branch e pull request
+3. Migliorare le capacità di revisione del codice
+4. Lavorare in team su un progetto condiviso
 
 Cambio qualcosa in questo punto del codice
 
