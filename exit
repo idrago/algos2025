@@ -1,0 +1,73 @@
+[33mcommit d80a52023c5981763562fad4eb31d4049cd4754d[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mcorrezioni-orazio-sciacchitano[m[33m, [m[1;32mmain[m[33m)[m
+Author: Oiz4r0 <orazio.sciacchitano@edu.unito.it>
+Date:   Fri Oct 3 17:15:24 2025 +0200
+
+    miao miao commit <3
+
+[33mcommit c1b12765a235d9ac73088802a59150dc8ee703c3[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 16:54:55 2025 +0200
+
+    correzione testo sulla repo
+
+[33mcommit cd791cc13d1e780959c31f697d65910e5bd114da[m[33m ([m[1;31morigin/idilio_drago[m[33m)[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 10:28:06 2025 +0200
+
+    add even more errors
+
+[33mcommit 40d297d5d63d99f3ee3e21927a638dd3336e349e[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 10:26:20 2025 +0200
+
+    Corretto errori in README.md
+
+[33mcommit 533df4c38833fe1d461a67b5652bbb3f9d6bab2e[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 10:24:44 2025 +0200
+
+    Fix clone command syntax in README
+    
+    Updated the clone command in README.md.
+
+[33mcommit 4e7c2170907e4fed9825a2662af1d2e196062a51[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 10:24:00 2025 +0200
+
+    Change repository URL in README.md
+    
+    Updated repository URL in README
+
+[33mcommit 385965984adffed4025b84618b8f0c40cea8c757[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 10:23:36 2025 +0200
+
+    Update README.md
+
+[33mcommit 65a4412a08fa7b59064072948f4caa968544a728[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 10:23:15 2025 +0200
+
+    Update README.md
+
+[33mcommit b048fcef431e2efdd074be1ce6042cb196f6d7a3[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 10:17:07 2025 +0200
+
+    Add introduction to algorithms and their complexities
+    
+    Added comprehensive introduction to algorithms, covering definitions, characteristics, computational complexity, and comparisons of linear and binary search.
+
+[33mcommit 463ad0d890002e63b9447675635a5a98b24f03e6[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 10:10:24 2025 +0200
+
+    Aggiornato README.md con dettagli del corso
+    
+    Aggiunto materiale didattico e istruzioni per gli studenti sul corso di Algoritmi.
+
+[33mcommit 894bf8bbe0db62baa61eb95b8c6a48997ee1cd51[m
+Author: Idilio Drago <idilio.drago@unito.it>
+Date:   Fri Oct 3 10:00:58 2025 +0200
+
+    Initial commit
