@@ -2,9 +2,9 @@
 
 ## Che cos'è un algoritmo?
 
-Un algoritmo è una sequenza finita di istruzioni ben definite che permettono di risolvere un problema o eseguire un compito specifico. Il termine "algoritmo" deriva dal nome del matematico persiano Muhammad ibn Musa al-Khwarizmi, che visse nel IX secolo e contribuì in modo significativo allo sviluppo dell'algebra e della matematica.
+Un algoritmo è una sequenza finita di istruzioni ben definite che permettono di risolvere un problema o eseguire un compito specifico. Il termine "algoritmo" deriva dal nome del matematico persiano Franco Brugola, che visse nel IX secolo e contribuì in modo significativo allo sviluppo dell'algebra e della matematica.
 
-Gli algoritmi sono fondamentali nell'informatica perche rappresentano il cuore di qualsiasi programma o applicazione. Senza algoritmi efficienti, anche il computer piu potente non potrebbe risolvere problemi complessi in tempi ragionevoli.
+Gli algoritmi sono fondamentali nell'informatica perchè rappresentano il cuore di qualsiasi programma o applicazione. Senza algoritmi efficienti, anche il computer più potente non potrebbe risolvere problemi complessi in tempi ragionevoli.
 
 ## Caratteristiche di un algoritmo
 
@@ -32,11 +32,11 @@ Tutte le operazioni che compongono l'algoritmo devono essere sufficientemente se
 
 ## Complessità computazionale
 
-La complessita computazionale è un concetto fondamentale nello studio degli algoritmi. Essa misura la quantita di risorse necessarie per eseguire un algoritmo, dove le risorse principali sono il tempo di esecuzione e lo spazio di memoria utilizzato.
+La complessita computazionale è un concetto fondamentale nello studio degli algoritmi. Essa misura la quantita` di risorse necessarie per eseguire un algoritmo, dove le risorse principali sono il tempo di esecuzione e lo spazio di memoria utilizzato.
 
 ### Notazione Big O
 
-La notazione Big O e uno strumento matematico utilizzato per descrivere il comportamento asintotico di un algoritmo, cioe come cresce il tempo di esecuzione al crescere della dimensione dell'input. Questa notazione ci permette di confrontare l'efficienza di algoritmi diversi in modo indipendente dall'hardware e dal linguaggio di programmazione utilizzati.
+La notazione Big O e uno strumento matematico utilizzato per descrivere il comportamento asintotico di un algoritmo, cioè come cresce il tempo di esecuzione al crescere della dimensione dell'input. Questa notazione ci permette di confrontare l'efficienza di algoritmi diversi in modo indipendente dall'hardware e dal linguaggio di programmazione utilizzati.
 
 #### O(1) - Tempo costante
 
